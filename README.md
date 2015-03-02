@@ -1,2 +1,3 @@
-# hello_world
-My First Repository
+hello_world readme
+*=========*
+In the beginning, there was man... then came Dan.
